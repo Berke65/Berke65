@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[LinkedIn Profilim](https://www.linkedin.com/in/berke-murat-baylan/)
-
+[LinkedIn Profilim](https://www.linkedin.com/in/berke-murat-baylan-46362a2a8/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
