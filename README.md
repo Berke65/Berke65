@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Flutter](https://github.com/Berke65/money_app)
-- 🔭 I’m currently working on [php](https://github.com/Berke65/manga)
-- 🔭 I’m currently working on [web-dev](https://github.com/Berke65/badi-talent)
-
-
+- 🔭 I’m currently working on [Flutter](https://github.com/Berke65/money_app) , [php](https://github.com/Berke65/manga) , [web-dev](https://github.com/Berke65/badi-talent)
+- 
 - 📫 How to reach me **berkebaylan40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
