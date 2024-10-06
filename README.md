@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Flutter](https://github.com/Berke65/money_app)
+- 🔭 I’m currently working on [php](https://github.com/Berke65/manga)
+- 🔭 I’m currently working on [web-dev](https://github.com/Berke65/badi-talent)
 
 
 - 📫 How to reach me **berkebaylan40@gmail.com**
